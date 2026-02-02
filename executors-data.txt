@@ -1,0 +1,76 @@
+{
+  "executors": [
+    {
+      "name": "Delta Executor",
+      "platform": "android",
+      "description": "Executor mobile poderoso e keyless para Android com suporte a múltiplos scripts.",
+      "features": ["Keyless", "Auto-Update", "Fast Execution"],
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
+      "downloadLink": "#",
+      "searchTerms": "delta executor android keyless"
+    },
+    {
+      "name": "Fluxus Android",
+      "platform": "android",
+      "description": "Versão mobile do popular Fluxus executor com interface otimizada para Android.",
+      "features": ["Stable", "Lua Scripts", "Regular Updates"],
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
+      "downloadLink": "#",
+      "searchTerms": "fluxus android mobile"
+    },
+    {
+      "name": "Codex",
+      "platform": "android",
+      "description": "Executor leve e rápido para Android com foco em performance e estabilidade.",
+      "features": ["Lightweight", "Fast", "Secure"],
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
+      "downloadLink": "#",
+      "searchTerms": "codex android mobile"
+    },
+    {
+      "name": "Arceus X",
+      "platform": "android",
+      "description": "Um dos executores Android mais populares com interface moderna e recursos avançados.",
+      "features": ["Popular", "UI Moderna", "Multi-Scripts"],
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
+      "downloadLink": "#",
+      "searchTerms": "arceus x android mobile"
+    },
+    {
+      "name": "Hydrogen",
+      "platform": "android",
+      "description": "Executor mobile confiável com boa compatibilidade e atualizações frequentes.",
+      "features": ["Reliable", "Updated", "Compatible"],
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
+      "downloadLink": "#",
+      "searchTerms": "hydrogen android mobile"
+    },
+    {
+      "name": "Krnl Mobile",
+      "platform": "android",
+      "description": "Versão mobile do Krnl, executor conhecido por sua alta qualidade e estabilidade.",
+      "features": ["High Quality", "Stable", "Trusted"],
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
+      "downloadLink": "#",
+      "searchTerms": "krnl mobile android"
+    },
+    {
+      "name": "Fluxus iOS",
+      "platform": "ios",
+      "description": "Executor para iOS com instalação via certificado, compatível com iPhone e iPad.",
+      "features": ["Certificate", "iOS 14+", "iPad Support"],
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
+      "downloadLink": "#",
+      "searchTerms": "fluxus ios mobile iphone ipad"
+    },
+    {
+      "name": "AppValley",
+      "platform": "ios",
+      "description": "App store alternativa para iOS com diversos executores e ferramentas disponíveis.",
+      "features": ["App Store", "Multiple Apps", "No Jailbreak"],
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
+      "downloadLink": "#",
+      "searchTerms": "appvalley ios mobile iphone"
+    }
+  ]
+}
