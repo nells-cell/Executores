@@ -3,74 +3,170 @@
     {
       "name": "Delta Executor",
       "platform": "android",
-      "description": "Executor mobile poderoso para andoid com uma interface facil de utilizar",
-      "features": ["Keyless", "Auto-Update", "Fast Execution"],
-      "icon": "https://cdn.beacons.ai/user_content/suBFnidbcCYUMLXS5uTqqrdzSHw2/referenced_images/ace3dff2-76ba-4315-9087-3c42702cba3b__link-in-bio__links-block__home__9c4ab1a7-0654-413b-b85f-a74ee3fb20c7__3fe7000b-4234-434b-9752-fb0036bb97d5__882c157b-7d97-4cc6-808a-41d2eb27a3bf.webp?t=1762194558608",
-      "downloadLink": "#",
-      "searchTerms": "delta executor android keyless"
-    },
-    {
-      "name": "Fluxus Android",
-      "platform": "android",
-      "description": "Versão mobile do popular Fluxus executor com interface otimizada para Android.",
-      "features": ["Stable", "Lua Scripts", "Regular Updates"],
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
-      "downloadLink": "#",
-      "searchTerms": "fluxus android mobile"
-    },
-    {
-      "name": "Codex",
-      "platform": "android",
-      "description": "Executor leve e rápido para Android com foco em performance e estabilidade.",
-      "features": ["Lightweight", "Fast", "Secure"],
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
-      "downloadLink": "#",
-      "searchTerms": "codex android mobile"
+      "icon": "https://example.com/delta-icon.png",
+      "description": "Executor poderoso para Android com interface intuitiva e suporte para múltiplos scripts simultâneos.",
+      "features": [
+        "Keyless",
+        "Auto-Update",
+        "Script Hub",
+        "Game Guard Bypass"
+      ],
+      "searchTerms": "delta executor android keyless script hub",
+      "downloadLink": "https://mineurl.com/delta-download"
     },
     {
       "name": "Arceus X",
       "platform": "android",
-      "description": "Um dos executores Android mais populares com interface moderna e recursos avançados.",
-      "features": ["Popular", "UI Moderna", "Multi-Scripts"],
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
-      "downloadLink": "#",
-      "searchTerms": "arceus x android mobile"
+      "icon": "https://example.com/arceus-icon.png",
+      "description": "Um dos executores mais populares para Android, com velocidade e estabilidade incomparáveis.",
+      "features": [
+        "Sem Key",
+        "Ultra Rápido",
+        "UI Moderna",
+        "Anti-Ban"
+      ],
+      "searchTerms": "arceus x android executor fast velocidade rapido",
+      "downloadLink": "https://mineurl.com/arceus-download"
     },
     {
       "name": "Hydrogen",
       "platform": "android",
-      "description": "Executor mobile confiável com boa compatibilidade e atualizações frequentes.",
-      "features": ["Reliable", "Updated", "Compatible"],
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
-      "downloadLink": "#",
-      "searchTerms": "hydrogen android mobile"
+      "icon": "https://example.com/hydrogen-icon.png",
+      "description": "Executor leve e eficiente, perfeito para dispositivos Android de baixa performance.",
+      "features": [
+        "Leve",
+        "Baixo Consumo",
+        "Estável",
+        "Grátis"
+      ],
+      "searchTerms": "hydrogen android leve light low end executor",
+      "downloadLink": "https://mineurl.com/hydrogen-download"
+    },
+    {
+      "name": "CodeX",
+      "platform": "ios",
+      "icon": "https://example.com/codex-icon.png",
+      "description": "Executor premium para iOS com recursos avançados e suporte para os scripts mais recentes.",
+      "features": [
+        "iOS 15+",
+        "No Jailbreak",
+        "Premium Scripts",
+        "Cloud Save"
+      ],
+      "searchTerms": "codex ios iphone ipad executor no jailbreak",
+      "downloadLink": "https://mineurl.com/codex-download"
+    },
+    {
+      "name": "Fluxus",
+      "platform": "android",
+      "icon": "https://example.com/fluxus-icon.png",
+      "description": "Executor gratuito com interface clean e execução rápida de scripts para Android.",
+      "features": [
+        "Free",
+        "Key System",
+        "Regular Updates",
+        "Multi-Script"
+      ],
+      "searchTerms": "fluxus android free gratis executor multi script",
+      "downloadLink": "https://mineurl.com/fluxus-download"
+    },
+    {
+      "name": "Evon",
+      "platform": "android",
+      "icon": "https://example.com/evon-icon.png",
+      "description": "Executor Android com foco em performance e compatibilidade com a maioria dos jogos.",
+      "features": [
+        "Alta Performance",
+        "Universal",
+        "Script Library",
+        "Auto-Inject"
+      ],
+      "searchTerms": "evon android performance universal executor biblioteca",
+      "downloadLink": "https://mineurl.com/evon-download"
+    },
+    {
+      "name": "ApplewoodX",
+      "platform": "ios",
+      "icon": "https://example.com/applewood-icon.png",
+      "description": "Executor iOS com certificado próprio, não requer jailbreak e funciona em todos os dispositivos.",
+      "features": [
+        "Certificado",
+        "iOS 14-17",
+        "No Computer",
+        "Easy Install"
+      ],
+      "searchTerms": "applewood ios iphone certificate certificado no jailbreak",
+      "downloadLink": "https://mineurl.com/applewood-download"
+    },
+    {
+      "name": "Vega X",
+      "platform": "android",
+      "icon": "https://example.com/vegax-icon.png",
+      "description": "Executor Android moderno com interface dark mode e suporte para scripts personalizados.",
+      "features": [
+        "Dark Mode",
+        "Custom Scripts",
+        "In-App Browser",
+        "Quick Execute"
+      ],
+      "searchTerms": "vega x android dark mode custom executor",
+      "downloadLink": "https://mineurl.com/vegax-download"
     },
     {
       "name": "Krnl Mobile",
       "platform": "android",
-      "description": "Versão mobile do Krnl, executor conhecido por sua alta qualidade e estabilidade.",
-      "features": ["High Quality", "Stable", "Trusted"],
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
-      "downloadLink": "#",
-      "searchTerms": "krnl mobile android"
+      "icon": "https://example.com/krnl-icon.png",
+      "description": "Versão mobile do famoso executor KRNL, com todas as funcionalidades do PC adaptadas para Android.",
+      "features": [
+        "PC Port",
+        "Powerful",
+        "Script Hub",
+        "Auto-Execute"
+      ],
+      "searchTerms": "krnl mobile android port pc powerful executor",
+      "downloadLink": "https://mineurl.com/krnl-download"
     },
     {
-      "name": "Fluxus iOS",
+      "name": "SynapseX Mobile",
       "platform": "ios",
-      "description": "Executor para iOS com instalação via certificado, compatível com iPhone e iPad.",
-      "features": ["Certificate", "iOS 14+", "iPad Support"],
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
-      "downloadLink": "#",
-      "searchTerms": "fluxus ios mobile iphone ipad"
+      "icon": "https://example.com/synapse-icon.png",
+      "description": "Executor iOS premium inspirado no SynapseX de PC, com recursos profissionais e execução perfeita.",
+      "features": [
+        "Premium",
+        "Professional",
+        "Advanced UI",
+        "Script Editor"
+      ],
+      "searchTerms": "synapse x mobile ios premium professional editor",
+      "downloadLink": "https://mineurl.com/synapse-download"
     },
     {
-      "name": "AppValley",
+      "name": "Nezur",
+      "platform": "android",
+      "icon": "https://example.com/nezur-icon.png",
+      "description": "Executor Android gratuito e sem key, perfeito para iniciantes com interface simples.",
+      "features": [
+        "Keyless",
+        "Beginner Friendly",
+        "Simple UI",
+        "Fast Loading"
+      ],
+      "searchTerms": "nezur android keyless iniciante beginner simples",
+      "downloadLink": "https://mineurl.com/nezur-download"
+    },
+    {
+      "name": "EasyX",
       "platform": "ios",
-      "description": "App store alternativa para iOS com diversos executores e ferramentas disponíveis.",
-      "features": ["App Store", "Multiple Apps", "No Jailbreak"],
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xoll7wAw51B_rY9AAKLo4KIe6RunOR5CwbhjSckKMw&s=10",
-      "downloadLink": "#",
-      "searchTerms": "appvalley ios mobile iphone"
+      "icon": "https://example.com/easyx-icon.png",
+      "description": "Executor iOS fácil de usar, ideal para quem está começando no mundo dos scripts mobile.",
+      "features": [
+        "Easy Install",
+        "User Friendly",
+        "Tutorial Included",
+        "Support 24/7"
+      ],
+      "searchTerms": "easy x ios facil tutorial suporte support beginner",
+      "downloadLink": "https://mineurl.com/easyx-download"
     }
   ]
 }
